@@ -18,7 +18,7 @@ A fully self-contained, single-file HTML tool that converts `.docx` Word documen
 
 ## How to Use
 
-1. **Download** the `word-to-pdf.html` file
+1. **Download** the `index.html` file
 2. **Open** it directly in any browser (double-click the file, or drag it into your browser)
 3. **Drop or select** your `.docx` file
 4. **Preview** your document in the panel below

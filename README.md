@@ -64,7 +64,7 @@ Because both libraries are inlined inside the HTML file, no internet connection 
 ## File Structure
 
 ```
-word-to-pdf.html   ← the entire app (HTML + CSS + JS + libraries, all in one file)
+index.html   ← the entire app (HTML + CSS + JS + libraries, all in one file)
 README.md          ← this file
 ```
 
